@@ -30,4 +30,4 @@ console.log("Then I watched " + band2, ", " + band5 ,"and " + band8 ,"and it cos
 console.log("I was a bit tired on the third day but it was so much worth it to watch " + band3 ,", " + band6 ,"and " + band9 +" and i spent" ,festday1+festday2+festday3 +" for the three days of the festival.")
 
 
-console.log("If I had booked the concert with enough time in advance, it would have cost me a total of " + discount + "and I would have saved " +finalresult + ".")
+console.log("If I had booked the concert with enough time in advance, it would have cost me a total of " + finalresult + "and I would have saved " +discount + ".")
